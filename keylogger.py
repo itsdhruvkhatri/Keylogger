@@ -3,7 +3,7 @@ import smtplib, ssl
 sender_mail = "moviesduniya1@gmail.com"     # Replace user@domain.com with your email id (everywhere)
 #prefer using your own email id for receiver's as well.
 receiver_mail = "khatridhruv11218590@gmail.com"  # Replace user@domain.com with your email id (everywhere)
-password = "(MoviesDuniya@1)"              # Enter your Password here
+password = "password"              # Enter your Password here
 port = 587
 message = """From: moviesduniya1@gmail.com
 To: khatridhruv11218590@gmail.com                        
